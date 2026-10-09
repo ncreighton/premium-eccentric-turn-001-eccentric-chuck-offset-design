@@ -1,0 +1,2 @@
+# premium-eccentric-turn-001-eccentric-chuck-offset-design
+Tired of chasing down offset specs and re-measuring eccentric chuck setups every time you start a new project? The Eccentric Chuck Offset Design Studio brings order to the chaos.  This Notion template centralizes every detail of your eccentric turning workflow—from offset calculations and design iterations to setup checklists and project history. N
